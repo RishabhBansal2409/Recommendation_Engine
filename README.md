@@ -1,4 +1,4 @@
-# Building a movie recommendation engine using collaborative filtering.
+# Building a recommendation engine using collaborative filtering.
 
 Most websites like Amazon, YouTube, and Netflix use collaborative filtering as a part of their sophisticated recommendation systems.
 Collaborative filtering works by **searching a large group of people and finding a smaller set of users with tastes similar to a particular user. It looks at the items which smaller set of users like and combines them to create a ranked list of suggestions.**
