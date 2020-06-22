@@ -21,4 +21,8 @@ Things one will learn by going through the notebook are :-
 
 - Different **types of similarity metrics** such as euclidean distance , cosine similarity etc.
 
-References :  https://realpython.com/build-recommendation-engine-collaborative-filtering/
+References :  
+
+https://realpython.com/build-recommendation-engine-collaborative-filtering/
+
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
